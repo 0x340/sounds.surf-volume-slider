@@ -94,7 +94,6 @@
       bottom: 16px;
       right: 16px;
       z-index: 999999;
-      background: rgba(0,0,0,0.75);
       color: #fff;
       display: flex;
       align-items: center;
