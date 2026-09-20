@@ -1,2 +1,3 @@
-# sounds.surf-volume-slider
-very very simple volume slider for sounds.surf
+It's a really simple thing just wanted to upload it since I never find my files, yeah creadits to rehab mostly i just added a simple slider lol
+
+used with [Tampermonkey](https://github.com/Tampermonkey/tampermonkey)
